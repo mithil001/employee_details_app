@@ -67,11 +67,6 @@ lib/
 
 ## 🌐 API
 
-**Endpoint:**
-```
-GET https://aamras.com/dummy/EmployeeDetails.json
-```
-
 **Response Format:**
 ```json
 {
@@ -142,18 +137,6 @@ App Launch
 |---|---|
 | **List Screen** | Stats banner · Search bar · Sort chips · Animated employee cards |
 | **Detail Screen** | Collapsible AppBar · Mini stat cards · Full details · Salary progress bar |
-
----
-
-## 👨‍💻 Assignment Info
-
-- **Assignment:** Android App Development — Assignment 2
-- **Reference Video:** https://idzdigital.com/assignments/Mp4Assignment2.mp4
-- **JSON Source:** https://aamras.com/dummy/EmployeeDetails.json
-- **Platform:** Flutter (Android)
-- **IDE:** Android Studio
-
----
 
 ## 📄 License
 
